@@ -1,0 +1,11 @@
+id: R4L_12
+Author: Ivanov
+Assigment: Dev123
+Priority: Very High
+Titel: Preprod. Кнопка войти не активна на странице авторизации
+Enviroment: Preprod. Google Chrome version 110
+Preconditions: Открыть страницу авторизации
+STR: Заполнить валидными данными поля авторизации и нажать кнопку войти
+ER: Вход воспроизведен корректно
+AR: Кнопка войти не активна после заполнения всех полей
+Attachments: Screenshot-004.png
